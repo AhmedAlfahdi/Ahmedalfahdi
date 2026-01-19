@@ -1,5 +1,10 @@
-[![website build](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fahmedalfahdi.github.io%2Fbuild-info.json&label=website%20build&query=%24.buildDate&suffix=%20UTC&cacheSeconds=60)](https://ahmedalfahdi.github.io) [![deployment](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fahmedalfahdi.github.io%2Fbuild-info.json&label=deployment&query=%24.deployment&cacheSeconds=60)](https://github.com/AhmedAlfahdi/ahmedalfahdi.github.io/actions/workflows/astro-pages.yml) [![website version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fahmedalfahdi.github.io%2Fversion.json&label=website%20version&query=%24.version&cacheSeconds=60)](https://ahmedalfahdi.github.io) [![visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanalytics-api-one.vercel.app%2Fapi%2Fstats&label=visitors&query=%24.uniqueVisitors&color=blue&cacheSeconds=300)](https://ahmedalfahdi.github.io/statistics)
-![Pages Deploy](https://github.com/AhmedAlfahdi/ahmedalfahdi.github.io/actions/workflows/astro-pages.yml/badge.svg)
+[![website build](https://img.shields.io/badge/dynamic/json?url=https://ahmedalfahdi.github.io/build-info.json&label=website%20build&query=$.buildDate&suffix=%20UTC&cacheSeconds=60)](https://ahmedalfahdi.github.io)
+[![build time](https://img.shields.io/badge/dynamic/json?url=https://ahmedalfahdi.github.io/build-info.json&label=build%20time&query=$.buildTime&suffix=%20UTC&cacheSeconds=60)](https://ahmedalfahdi.github.io)
+[![deployment](https://img.shields.io/badge/dynamic/json?url=https://ahmedalfahdi.github.io/build-info.json&label=deployment&query=$.deployment&cacheSeconds=60)](https://github.com/AhmedAlfahdi/ahmedalfahdi.github.io/actions/workflows/astro-pages.yml)
+[![website version](https://img.shields.io/badge/dynamic/json?url=https://ahmedalfahdi.github.io/version.json&label=website%20version&query=$.version&cacheSeconds=60)](https://ahmedalfahdi.github.io)
+[![visitors](https://img.shields.io/badge/dynamic/json?url=https://analytics-api-one.vercel.app/api/stats&label=visitors&query=$.uniqueVisitors&color=blue&cacheSeconds=300)](https://ahmedalfahdi.github.io/statistics)
+[![Build and Deploy (Astro → GitHub Pages)](https://github.com/AhmedAlfahdi/ahmedalfahdi.github.io/actions/workflows/astro-pages.yml/badge.svg)](https://github.com/AhmedAlfahdi/ahmedalfahdi.github.io/actions/workflows/astro-pages.yml)
+
 # AHMED N. ALFAHDI
 
 Mechanical Engineer thinking with hardware and software. 
