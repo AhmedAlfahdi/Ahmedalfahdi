@@ -20,8 +20,7 @@ Mechanical Engineer thinking with hardware and software.
 [![pdfjs](https://img.shields.io/badge/dynamic/json?url=https://ahmedalfahdi.github.io/build-info.json&label=pdfjs&query=$.pdfjsVersion&color=blue&cacheSeconds=3600&v=2)](https://mozilla.github.io/pdf.js/)
 [![marked](https://img.shields.io/badge/dynamic/json?url=https://ahmedalfahdi.github.io/build-info.json&label=marked&query=$.markedVersion&color=blue&cacheSeconds=3600&v=2)](https://marked.js.org/)
 
-
->!--
+<!--
 ## Languages (live)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlfahdi&layout=compact&theme=default)
