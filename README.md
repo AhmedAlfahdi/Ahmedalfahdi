@@ -16,10 +16,11 @@ Mechanical Engineer thinking with hardware and software.
    
 [![astro version](https://img.shields.io/badge/dynamic/json?url=https://ahmedalfahdi.github.io/build-info.json&label=astro&query=$.astroVersion&color=orange&cacheSeconds=3600&v=2)](https://astro.build/)
 [![three](https://img.shields.io/badge/dynamic/json?url=https://ahmedalfahdi.github.io/build-info.json&label=three&query=$.threeVersion&color=blue&cacheSeconds=3600&v=2)](https://threejs.org/)
+<!--
 [![mermaid](https://img.shields.io/badge/dynamic/json?url=https://ahmedalfahdi.github.io/build-info.json&label=mermaid&query=$.mermaidVersion&color=blue&cacheSeconds=3600&v=2)](https://mermaid.js.org/)
 [![pdfjs](https://img.shields.io/badge/dynamic/json?url=https://ahmedalfahdi.github.io/build-info.json&label=pdfjs&query=$.pdfjsVersion&color=blue&cacheSeconds=3600&v=2)](https://mozilla.github.io/pdf.js/)
 [![marked](https://img.shields.io/badge/dynamic/json?url=https://ahmedalfahdi.github.io/build-info.json&label=marked&query=$.markedVersion&color=blue&cacheSeconds=3600&v=2)](https://marked.js.org/)
-
+-->
 <!--
 ## Languages (live)
 
